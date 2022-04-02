@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAppJava</string>
+    <string name="weather_app">Weather App</string>
+    <string name="city_name">City Name</string>
+    <string name="next">NEXT</string>
+    <string name="no_input_text">Enter the name of city</string>
+    <string name="voice_search">Speak</string>
+</resources>
